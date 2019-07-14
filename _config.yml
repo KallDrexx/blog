@@ -29,3 +29,5 @@ plugins:
 # Custom variables
 owner : "KallDrexx"
 year : "2019"
+
+theme: jekyll-theme-cayman
