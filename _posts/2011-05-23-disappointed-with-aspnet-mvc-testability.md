@@ -6,8 +6,8 @@ title:  "Disappointed With Asp.net MVC's Testability"
 <strong>Update:</strong> Since writing this post I found a useful tool called the <a href="http://razorgenerator.codeplex.com/">Razor Generator</a>.  Following <a href="http://blog.davidebbo.com/2011/06/unit-test-your-mvc-views-using-razor.html">this blog post</a> I am now able to effectively unit test Asp.NET MVC views.  At this point I am happy, although I don't know if this is a Razor only solution.
 
 <br />
-<hr>
-<br/>
+<hr />
+<br />
 
 I have been happily using the Asp.NET MVC framework for personal and professional projects for about a year now.  I love how easy and straight-forward it has made web development for .NET developers, and using it has been nothing but pure joy.  However, I have noticed one nagging issue that I keep coming up against, and that issue is its advertised testability.
 
